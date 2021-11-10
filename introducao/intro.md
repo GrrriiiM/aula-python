@@ -1,5 +1,3 @@
-# Python :snake:
-
 ## Introdução
 
  - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. 
@@ -9,9 +7,6 @@
  - A sua principal implementação é CPython (escrito em C).
 
  - O nome Python é uma homenagem ao Monty Python :shoe: 
-
-
-
 
 
 ## Instalação
@@ -31,10 +26,6 @@
 
 ```Python
 eu_sou_uma_variavel = 'um texto qualquer'
-```
-
-```Python
-retorno_da_funcao = uma_funcao_qualquer(parametro_da_funcao)
 ```
 
 ```Python
@@ -79,29 +70,3 @@ return    while    with    yield
  - Script arquivo texto .py
 
  - Jupyter Notebook .ipynb
-
-
-## Tipos de variáveis
-
- - bool
- 
- - byte
-
- - string
-
- - int
-
- - float
-
- - complex
-
- - list
-
- - tuple
-
- - dict
-
-[tipos_variaveis.ipynb](./tipos_variaveis.ipynb)
-
-
-## Funcões

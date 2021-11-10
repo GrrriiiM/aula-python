@@ -42,6 +42,24 @@ if primeira_condicao and segunda_condicao:
 variavel_fora_do_escopo = "recuo na identacao"
 ```
 
+```Python
+while condicao:
+    executa_algo()
+```
+
+```Python
+for i in range(0,10):
+    print(i)
+```
+
+```Python
+condicao_ternaria = 'valor se verdadeiro' if condicao else 'valor se falso'
+```
+
+```Python
+numeros_multiplos_de_4_mais_1 = [i + 1 for i in range(0, 100) if i % 4 == 0] #List Comprehensions
+```
+
 para mais informaçoes: [PEP8](https://www.python.org/dev/peps/pep-0008/)
 
 ## Saída console
